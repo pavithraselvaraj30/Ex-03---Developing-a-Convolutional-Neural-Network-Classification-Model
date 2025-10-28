@@ -1,6 +1,6 @@
 # Ex-03---Developing-a-Convolutional-Neural-Network-Classification-Model
 
-DL-Convolutional Deep Neural Network for Image Classification
+
 ## ## AIM
 To develop a convolutional neural network (CNN) classification model for the given dataset.
 
