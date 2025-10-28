@@ -1,7 +1,7 @@
 # Ex-03---Developing-a-Convolutional-Neural-Network-Classification-Model
 
 
-## ## AIM
+## AIM
 To develop a convolutional neural network (CNN) classification model for the given dataset.
 
 ## THEORY
